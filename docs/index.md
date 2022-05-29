@@ -1,4 +1,4 @@
-# Vala.ai FAQ
+# Vala.ai Documentation
 
 ## What is Vala?
 

@@ -1,4 +1,46 @@
-site_name: Vala
+site_name: Vala Docs
 site_url: https://vala.ai/
+repo_url: https://github.com/valapm/documentation
+site_description: "Peer to Peer Prediction Markets on Bitcoin"
 theme:
-  name: gitbook
+  name: material
+  logo: assets/vala_white.svg
+  favicon: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - toc.integrate
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+nav:
+  - FAQ:
+      - General: index.md
+      - Wallet: faq/wallet.md
+      - Markets: faq/markets.md
+      - Liquidity: faq/liquidity.md
+      - Oracles: faq/oracles.md
+  - Tutorial:
+      - Trading: tutorial/trading.md
+      - Liquidity: tutorial/liquidity.md
+      - Oracles: tutorial/oracles.md
+
+extra:
+  homepage: https://vala.ai
+# extra_css:
+#   - stylesheets/extra.css
+plugins:
+  - git-revision-date
+  - search
+
+edit_uri: ""
