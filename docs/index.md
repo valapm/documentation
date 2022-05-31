@@ -16,4 +16,4 @@ Yes, to the degree that Bitcoin itself is censorship-resistant. Nobody can preve
 
 ## Is Vala open-source?
 
-Yes. All scripts and logic, the frontend and code used to generate transactions as well as the wallet are open-source and available on Github. The only exception to this is our backend-server who's only job is to collect and broadcast transactions and serve the current state of Vala.
+Yes. All scripts and logic, the frontend and code used to generate transactions as well as the wallet are open-source and available on [Github](https://github.com/valapm). The only exception to this is our backend-server who's only job is to collect and broadcast transactions and serve the current state of Vala.
