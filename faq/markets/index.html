@@ -208,22 +208,6 @@
   
 
       
-        
-  
-  
-
-
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../../tutorial/trading/" class="md-tabs__link">
-        Tutorial
-      </a>
-    </li>
-  
-
-      
     </ul>
   </div>
 </nav>
@@ -376,6 +360,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#when-will-a-market-resolve" class="md-nav__link">
+    When will a market resolve?
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -419,82 +410,6 @@
   
 
     
-      
-      
-      
-
-  
-  
-  
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-      
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" data-md-state="indeterminate" type="checkbox" id="__nav_2" checked>
-      
-      
-      
-      
-        <label class="md-nav__link" for="__nav_2">
-          Tutorial
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <nav class="md-nav" aria-label="Tutorial" data-md-level="1">
-        <label class="md-nav__title" for="__nav_2">
-          <span class="md-nav__icon md-icon"></span>
-          Tutorial
-        </label>
-        <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorial/trading/" class="md-nav__link">
-        Trading
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorial/liquidity/" class="md-nav__link">
-        Liquidity
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorial/oracles/" class="md-nav__link">
-        Oracles
-      </a>
-    </li>
-  
-
-            
-          
-        </ul>
-      </nav>
-    </li>
-  
-
-    
   </ul>
 </nav>
                   </div>
@@ -515,14 +430,17 @@
 <p>Prediction markets are betting markets that enable participants to trade and speculate on the probability of event outcomes.
 Through monetary incentives they aggregate information about the future, making it accessible to anybody.</p>
 <h2 id="how-do-markets-work">How do Markets work?</h2>
-<p>All trades happen on-chain and are managed by an automated market maker implemented in Bitcoin Script, namely the logarithmic market scoring rule (LMSR).</p>
+<p>All trades happen on-chain and are managed by an automated market maker implemented in Bitcoin Script, namely the logarithmic market scoring rule (LMSR).
+You can inspect the script code <a href="https://github.com/valapm/boilerplate/blob/master/contracts/valaPM.scrypt">here</a></p>
+<h2 id="when-will-a-market-resolve">When will a market resolve?</h2>
+<p>Whenever the market Oracle decides to resolve it. The conditions of that can be layed out in the market details.</p>
 
   <hr>
 <div class="md-source-file">
   <small>
     
       Last update:
-      2022-05-31
+      2022-08-21
     
   </small>
 </div>
