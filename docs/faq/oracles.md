@@ -8,7 +8,7 @@ The only power an Oracle has is to select one of the outcomes and resolve a mark
 
 ## How are Oracles payed?
 
-When creating a market the Oracle can set a percentage fee that they will receive for all trade earnings.
+When creating a market the Oracle can set a percentage fee that they will receive on all trade profits.
 
 ## What requirements are there to become an Oracle?
 
