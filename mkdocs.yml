@@ -30,10 +30,10 @@ nav:
       - Markets: faq/markets.md
       - Liquidity: faq/liquidity.md
       - Oracles: faq/oracles.md
-  - Tutorial:
-      - Trading: tutorial/trading.md
-      - Liquidity: tutorial/liquidity.md
-      - Oracles: tutorial/oracles.md
+  # - Tutorial:
+  #     - Trading: tutorial/trading.md
+  #     - Liquidity: tutorial/liquidity.md
+  #     - Oracles: tutorial/oracles.md
 
 extra:
   homepage: https://vala.ai

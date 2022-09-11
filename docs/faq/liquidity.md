@@ -1,6 +1,6 @@
 # What is liquidity?
 
-Liquidity funds provided to the LMSR market maker algorithm and are used to enable trades without sufficient opposing bets.
+Liquidity describes funds provided to the LMSR market maker algorithm and is used to enable trades without sufficient opposing bets.
 Available liquidity corresponds to market depth and increased liquidity will lead to trades having less of an effect on market prices.
 
 # How much will I earn as a liquidity provider?

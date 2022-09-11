@@ -6,7 +6,7 @@ Vala is an open-source platform for peer-to-peer prediction markets running on B
 
 ## Is Vala trustless?
 
-Mostly. The correct state of Vala including every market, trade and oracle is enforced by Miners and can be deterministically generated from the current state of the blockchain.
+The correct state of Vala including every market, trade and oracle is enforced by Miners and can be deterministically generated from the current state of the blockchain.
 
 There is trust required in the oracles. See the [Oracle FAQ](faq/oracles.md) for details.
 
