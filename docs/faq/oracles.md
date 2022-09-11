@@ -1,18 +1,18 @@
-## What is an Oracle?
+## What is an oracle?
 
-Oracles create and resolve markets. Anybody can become an oracle.
+Oracles create and resolve markets. Anyone can become an oracle.
 
-## How can I trust a certain Oracle?
+## How can I trust a certain oracle?
 
-The only power an Oracle has is to select one of the outcomes and resolve a market they created. Oracles have to verifiably connect a domain they own. All decisions an Oracle makes are embedded in the blockchain for everybody to see, forever. Whether you trust the owner of that domain to make the right choice or cheat and burn their reputation forever has to be your own determination.
+The only power an oracle has is to select one of the outcomes and resolve a market they created. Oracles must verifiably connect a domain they own. All decisions an oracle makes are embedded in the blockchain for everyone to see, forever. Whether you trust the owner of that domain to make the right choice or cheat and burn their reputation forever has to be your own determination.
 
-## How are Oracles payed?
+## How are oracles paid?
 
-When creating a market the Oracle can set a percentage fee that they will receive on all trade profits.
+When creating a market, the oracle can set a percentage fee that they will receive on all trade profits.
 
-## What requirements are there to become an Oracle?
+## What requirements are there to become an oracle?
 
-A domain you are willing to publicly connect. That's it.
+A domain you are willing to connect publicly. That's it.
 
 ## Can Vala prevent someone from becoming an oracle or creating markets?
 
